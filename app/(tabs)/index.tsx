@@ -34,7 +34,7 @@ export default function HomeScreen() {
             source={require("../../assets/images/profile.jpg")}
             style={styles.profileImage}
           />
-          <Text style={styles.username}>Gerrard Zainal</Text>
+          <Text style={styles.username}>Lisa BlackPink</Text>
         </View>
 
         {/* BUTTON 1 & 2 */}
